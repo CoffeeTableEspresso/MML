@@ -19,6 +19,8 @@ Unpaired:
 
 Other:
 [link](text)
+[^1]
+[^1]: footnote
 
 Macros:
 $macro f{x} you passed in $x
