@@ -1,0 +1,24 @@
+Paired delimiters:
+*bold*
+__underline__
+_italic_
+~~strike through~~
+~subscript~
+^superscript^
+`code`
+``raw``
+
+Unpaired:
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+> block quote
+
+Macros:
+$macro f{x} you passed in $x
+
+Other:
+[link](text)
