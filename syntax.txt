@@ -17,8 +17,11 @@ Unpaired:
 ###### h6
 > block quote
 
+Other:
+[link](text)
+
 Macros:
 $macro f{x} you passed in $x
 
-Other:
-[link](text)
+Built-in Macros:
+date: current date
